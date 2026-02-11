@@ -16,12 +16,3 @@
 [![](https://visitcount.itsvg.in/api?id=lohith1511&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🚀 Featured Project – Space Shooter
-
-<p align="center">
-  <a href="https://username.github.io/repo-name/">
-    <img src="lohith1511-space-shooter.gif" width="750"/>
-  </a>
-</p>
-![snake animation](https://github.com/lohith1511/lohith1511/blob/output/github-contribution-grid-snake.svg)
-
