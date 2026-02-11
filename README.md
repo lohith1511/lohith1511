@@ -17,6 +17,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🚀 My Coding Battle
+## 🚀 My Contribution Battle
 
 ![Space Shooter](game.webp)
